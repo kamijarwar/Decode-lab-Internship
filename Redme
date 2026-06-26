@@ -1,0 +1,54 @@
+# 🔑 Automatic Password Generator
+
+A lightweight and secure Python script that generates strong, random passwords based on user-defined lengths. It combines uppercase letters, lowercase letters, numbers, and special characters to ensure high security.
+
+---
+
+## 🚀 Features
+
+* **Custom Length:** Choose exactly how long you want your password to be.
+* **Strong Security:** Uses a mix of ASCII letters, digits, and punctuation symbols.
+* **Instant Output:** Generates and displays the password immediately in the terminal.
+
+---
+
+## 🛠️ Requirements
+
+* **Python 3.x** installed on your system.
+
+---
+
+## 💻 How to Run
+
+1. **Clone the repository** (or download the script file):
+   ```bash
+   git clone https://github.com
+   ```
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd YOUR-REPO-NAME
+   ```
+
+3. **Run the script:**
+   ```bash
+   python password_generator.py
+   ```
+
+4. **Input the length** when prompted, and press `Enter`.
+
+---
+
+## 📝 Example Output
+
+```text
+---------------------------Automatic Password Generator-----------------------------------
+Enter password length: 12
+Generated password:  kH9!mP\$2xB7@
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
